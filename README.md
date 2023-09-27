@@ -4,9 +4,9 @@
 I am a Java/Kotlin Developer, I have specialized in the last 16 months in the technologies and design patterns: Springs, SOLID, SQL/NoSQL, AWS, Microservices and RabbitMQ.
 
 ### Contacts 
-[![linkedin](https://www.bing.com/images/blob?bcid=To.pUiYH7h8GqxcxoNWLuD9SqbotqVTdP8Q)](https://www.linkedin.com/in/yan-pedro-dev/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/yan-pedro-dev/)
 
-[![email](https://www.bing.com/images/blob?bcid=TpM-lkFDqx8GqxcxoNWLuD9SqbotqVTdP6k)](yan.pedro@outlook.com/)
+[![email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=email)](yan.pedro@outlook.com/)
 
 
 ### Tech Stacks

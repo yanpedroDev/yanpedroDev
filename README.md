@@ -16,4 +16,4 @@ I am a Java/Kotlin Developer, I have specialized in the last 16 months in the te
 ![AWS](https://img.shields.io/badge/AWS-125.svg?style=for-the-badge&logo=amazon-aws&logoColor=30A3DC)
 
 ### Main Project
-[![FarmaLar App](https://github-readme-stats.vercel.app/api/pin/?username=yanpedroDev&repo=FarmaLar-App&bg_color=484f58&border_color=000&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF)](https://github.com/yanpedroDev/FarmaLar-App)
+[![FarmaLar App](https://github-readme-stats.vercel.app/api/pin/?username=yanpedroDev&repo=FarmaLar-App&bg_color=1C1C1C&border_color=000&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF)](https://github.com/yanpedroDev/FarmaLar-App)

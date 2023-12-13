@@ -2,6 +2,7 @@
 
 ## 🚀 About Me
 I am a Java/Kotlin Developer, I have specialized in the last 16 months in the technologies and design patterns: Springs, SOLID, SQL/NoSQL, AWS, Microservices and RabbitMQ.
+
 Graduated in Systems Analysis and Development from [FIAP](https://www.fiap.com.br/).
 
 ### Contacts 
